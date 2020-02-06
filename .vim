@@ -1,1 +1,1 @@
-/home/nick/.vim
+/home/nick/.vimrc
